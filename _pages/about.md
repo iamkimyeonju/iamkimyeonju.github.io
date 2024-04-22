@@ -16,8 +16,8 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I'm Korean born in South Korea
-homebody, conditional introvert, gamer, traveler 
+<p>I'm Korean born in South Korea</p> 
+<p>homebody, conditional introvert, gamer, traveler</p> 
 
 <h3>Education</h3>
  <p>Ph.D. University of Connecticut, USA, Department of Earth Science (upcoming Fall 2024-)</p>
