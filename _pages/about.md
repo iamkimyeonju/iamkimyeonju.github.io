@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I'm Korean born in South Korea :kr:
+subtitle: I'm Korean born in South Korea
 
 profile:
   align: right
