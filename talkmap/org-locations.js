@@ -1,22 +1,37 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Ensemble Streamflow Prediction in Korea: Step Ahead From Hydrologic Forecasting to Reservoir Operations<br />World Environmental and Water Resources Congress (EWRI) 2023; Henderson, NV, USA",
+    36.0319602,
+    -114.9822716
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Optimal Reservoir Operations for Water Supply Under Forecast Uncertainty in Korea<br />Asia Oceania Geosciences Society (AOGS) 2023; Singapore",
+    1.357107,
+    103.8194992
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Urban Water Cycle Analysis Using SWMM: A Case Study of Seoul National University Gwanak Campus<br />Asia Oceania Geosciences Society (AOGS) 2022; Online",
+    43.5904719,
+    3.8595132
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Beaver-Induced Groundwater-Surface Water Interactions in Southern New England Wetlands: A Model-data Integration Approach<br />American Geophysical Union (AGU) 2025; New Orleans, LA, USA",
+    29.9561422,
+    -90.0733934
+  ],
+  [
+    "Beaver-Induced Groundwater-Surface Water Interactions in Southern New England Wetlands: A Model-data Integration Approach<br />BeaverCon 2026; Minnesota, USA",
+    45.9896587,
+    -94.6113288
+  ],
+  [
+    "A Study on Improving the Water Circulation Management Index of the Water Environment Conservation Act<br />Korea Water Resources Association (KWRA) 2022; Busan, South Korea",
+    35.1799528,
+    129.0752365
+  ],
+  [
+    "Drone-Based Thermal Remote Sensing for Spatial Temperature Mapping of the Black Warrior River<br />Water Observing Technology Forum (WOTF) 2026; Tuscaloosa, AL, USA",
+    33.2095614,
+    -87.5675258
   ]
 ];
