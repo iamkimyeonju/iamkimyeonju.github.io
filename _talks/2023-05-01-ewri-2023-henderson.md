@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2023-05-01-ewri-2023-henderson
 venue: "World Environmental and Water Resources Congress (EWRI) 2023"
-date: 2023-05-01
+date: 2023-05-21
 location: "Henderson, NV, USA"
 ---
 

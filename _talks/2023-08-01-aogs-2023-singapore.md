@@ -4,7 +4,7 @@ collection: talks
 type: "Oral Presentation"
 permalink: /talks/2023-08-01-aogs-2023-singapore
 venue: "Asia Oceania Geosciences Society (AOGS) 2023"
-date: 2023-08-01
+date: 2023-07-30
 location: "Singapore"
 ---
 

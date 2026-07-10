@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2026-02-01-beavercon-2026-minnesota
 venue: "BeaverCon 2026"
-date: 2026-02-01
+date: 2026-09-28
 location: "Minnesota, USA"
 ---
 

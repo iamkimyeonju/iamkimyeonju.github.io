@@ -4,7 +4,7 @@ collection: talks
 type: "Lightning Talk & Poster"
 permalink: /talks/2026-08-01-wotf-2026-tuscaloosa
 venue: "Water Observing Technology Forum (WOTF) 2026"
-date: 2026-08-01
+date: 2026-07-28
 location: "Tuscaloosa, AL, USA"
 ---
 
