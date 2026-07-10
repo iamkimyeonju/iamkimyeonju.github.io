@@ -25,9 +25,9 @@ author:
   avatar           : "Yeonju_profile.jpg"
   name             : "Yeonju Kim"
   pronouns         : # example: "she/her"
-  bio              : "PhD candidate in the Model-Data Integration Hydrology Lab at the University of Connecticut."
+  bio              : "PhD candidate in the MDIH Lab at the University of Connecticut."
   location         : "Storrs, CT, USA"
-  employer         : "UConn Model-Data Integration Hydrology Lab"
+  employer         : "UConn MDIH Lab"
   employer_url     : "https://lijingwang.github.io/"
   uri              : # URL
   email            : "iamkimyeonju@gmail.com"

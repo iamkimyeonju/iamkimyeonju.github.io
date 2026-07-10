@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [MDIH Lab](https://lijingwang.github.io/) at the University of Connecticut, advised by Prof. Lijing Wang. My research focuses on integrating field observations with hydrologic models to understand groundwater-surface water interactions, with a current emphasis on how beaver dams reshape wetland hydrology in southern New England.
+I am a Ph.D. candidate in the [Model-Data Integration Hydrology (MDIH) Lab](https://lijingwang.github.io/) at the University of Connecticut, advised by Prof. Lijing Wang. My research focuses on integrating field observations with hydrologic models to understand groundwater-surface water interactions, with a current emphasis on how beaver dams reshape wetland hydrology in southern New England.
 
 You can find more about my research, talks, and teaching using the menu above, or reach me directly at iamkimyeonju@gmail.com.
 
